@@ -1,2 +1,6 @@
 Hi My name is Mansoureh
+<<<<<<< HEAD
 My favourite color is green.
+=======
+My favourite color is pink.
+>>>>>>> 5a9b79627a689e3453ea7101d08cbf7203b8d7ef
